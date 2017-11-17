@@ -1,0 +1,16 @@
+Results of PPI:
+
+
+Fly:
+Diameter- 11
+Radius- 1
+Max Degree Centrality in the graph- 178
+Average Clustering Coefficient for all nodes- 0.01
+Normalized Betweenness Centrality- 0.0135
+
+Yeast:
+Diameter- 12
+Radius- 1
+Max Degree Centrality in the graph- 283
+Average Clustering Coefficient for all nodes- 0.0926
+Normalized Betweenness Centrality- 0.0347
